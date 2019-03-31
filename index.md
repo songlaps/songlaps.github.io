@@ -1,8 +1,8 @@
 ## Education  
 
-- **B.S.	Physics**  
+- **B.S. in Physics**  
 2013 - 2017, Sichuan University, China  
-- **Ph.D. Plasma Physics**  
+- **Ph.D. Candidate in Plasma Physics**  
 2017 - , Institute of Physics, Chinese Academy of Sciences, China  
 
 ## Publication
