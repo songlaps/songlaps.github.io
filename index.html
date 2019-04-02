@@ -24,7 +24,22 @@ CSS<br>
 JavaScript</div>
 
 <div id="content" style="background-color:#EEEEEE;height:200px;width:400px;float:left;">
-内容在这里</div>
+<style>
+ul{counter-reset:num;}
+li:before{content:counter(num);counter-increment:num;}
+</style>
+
+<ul>
+	<li>文本文本</li>
+	<li>文本文本</li>
+	<li>文本文本</li>
+	<li>文本文本</li>
+	<li>文本文本</li>
+	<li>文本文本</li>
+	<li>文本文本</li>
+</ul>
+</div>
+    
 <a href="./Publications">W3School</a>
 
 <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
