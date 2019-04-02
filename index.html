@@ -2,18 +2,11 @@
 <html>
 <head>
 <style>
-.cities {
-    background-color:black;
-    color:white;
-    margin:20px;
-    padding:20px;
-} 
-</style>
+li:before{counter-increment:num;content:counter(num)". "}
+</style>  
 </head>
+    
 <body>
-
-li:before{counter(num);counter-increment:num;}
-</style>
 
 <ol reversed>
   <li>I am a list item.</li>
