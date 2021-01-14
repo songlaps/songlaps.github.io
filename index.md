@@ -12,4 +12,4 @@ Publications
    
 1. **H.-H. Song**, W.-M. Wang, J.-X. Li, Y.-F. Li, Y.-T. Li,<br />
    Spin-polarization effects of an ultrarelativistic electron beam in an ultraintense two-color laser pulse.<br />
-   [Physical Review A, 033407 (2019)](https://https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.033407), [arXiv:1904.13246v3 [physics.plasm-ph]](https://arxiv.org/abs/1904.13246)
+   [Physical Review A, 033407 (2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.033407), [arXiv:1904.13246v3 [physics.plasm-ph]](https://arxiv.org/abs/1904.13246)
