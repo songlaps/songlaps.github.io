@@ -6,6 +6,10 @@ Educations
 
 Publications
 ====
+1. **H.-H. Song**, W.-M. Wang, Y.-F. Li, B.-J. Li, Y.-T. Li, Z.-M. Sheng, L.-M. Chen, J. Zhang,<br/>
+   Spin and polarization effects on the nonlinear Breit-Wheeler pair production in laser-plasma interaction.<br/>
+   [arXiv:2102.05882 [physics.plasm-ph]](https://arxiv.org/abs/2102.05882)
+   
 1. **H.-H. Song**, W.-M. Wang, J.-Q. Wang, Y.-T. Li, J. Zhang,<br/>
    Low-frequency whistler waves excited by relativistic laser pulses.<br/>
    [Physical Review E 102, 053204 (2020)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.053204), [arXiv:2010.07779 [physics.plasm-ph]](https://arxiv.org/abs/2010.07779)
